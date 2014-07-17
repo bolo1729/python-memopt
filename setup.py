@@ -19,5 +19,5 @@ setup(name='memopt',
 			'Programming Language :: Python',
 			'Topic :: Utilities',
 			],
-		license="MIT",
+		license='MIT',
 		)
